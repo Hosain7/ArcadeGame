@@ -32,4 +32,4 @@ The user's score increases by one point each time passed. score decreases if you
  
 ## Controles
 
-Users move the character by using  up/right/left/down arrow keys on the keyboard.
+Users move the character by using  up/right/left/down arrow keys on the keyboard.# Arcade-Game
